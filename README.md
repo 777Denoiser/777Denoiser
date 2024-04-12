@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @777Denoiser
-- 👀 I’m interested in alot of things, art, theory, philosophy, etc...
-- 🌱 I’m currently learning Computer Science Engineering Degree...
-- 💞️ I’m looking to collaborate on ANYTHING ...
-- 📫 How to reach me create a pull on one of my projects as a notification...
-
-<!---
-777Denoiser/777Denoiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m interested in alot of things, art, philosophy, poetry.
+- I’m currently learning Computer Science Degree.
+- How to reach me send me an email.
