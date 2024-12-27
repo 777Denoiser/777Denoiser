@@ -1,3 +1,6 @@
-- I’m interested in alot of things, art, philosophy, poetry.
-- I’m currently learning Computer Science Degree.
-- How to reach me send me an email.
+- I’m interested in alot of things that don't relate to computer science like: weightlifting, health, music, video games, art, philosophy, poetry.
+- Computer Science graduate with a strong foundation in software development, machine learning, and cloud computing.
+- Experienced in developing AR experiences at Snap Inc., creating AI risk classification systems at National Research Group, and optimizing cybersecurity toolkits at Cisco Systems.
+- Skilled in Python, Java, JavaScript, C, C++, AWS, Azure, and data visualization tools like Power BI.
+- Seeking to apply technical skills in innovative projects. 
+- How to reach me send me a email at uzair.seyal23@gmail.com
