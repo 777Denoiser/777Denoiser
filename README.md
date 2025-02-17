@@ -16,7 +16,6 @@
 
 
 <h3 align="Center">👤 About Me 📖</h3>
-***
 
 - **🏠 I'm currently residing in:** Louisville, Kentucky, United States  
 
