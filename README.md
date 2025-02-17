@@ -49,7 +49,7 @@
 
 
 <h3 align="Center">🚀 What I Do Here! ⚡</h3>
-***
+
 *💻 Implemented SHA-256 cryptographic validation in Go for Cisco's Grabit, optimizing software integrity and reducing downloads for 400+ developers. 🛡️
 
 *✨ Developed and fine-tuned real-time ML models in Python and JavaScript for Snapchat AR lenses, creating engaging user experiences with computer vision. 👻
@@ -116,7 +116,7 @@
 </div>
 
 <h2 align="Center">🎉 Thank You! 🎉</h2>
-***
+
 Thank you for visiting my profile. Feel free to explore my repositories and contribute to ongoing projects. Let's collaborate to develop innovative and impactful technology solutions together. 🌟
 
 <div align="center">
