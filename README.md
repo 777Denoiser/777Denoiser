@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">👤 About Me 📖</h3>
+<h3>👤 About Me 📖</h3>
 ***
 
 - **🏠 I'm currently residing in:** Louisville, Kentucky, United States  
@@ -49,7 +49,7 @@
 
 
 
-<h3 align="Center">🚀 What I Do Here! ⚡</h3>
+<h3>🚀 What I Do Here! ⚡</h3>
 ***
 *💻 Implemented SHA-256 cryptographic validation in Go for Cisco's Grabit, optimizing software integrity and reducing downloads for 400+ developers. 🛡️
 
@@ -64,7 +64,7 @@
 *💡 Contributed to open-source projects by integrating CI/CD pipelines, emphasizing version control, code quality, and DevOps principles for automated software delivery. 🚀
 
 
-<h3 align="center">🛠️ Tech Stack & Tools 🧰</h3>
+<h3>🛠️ Tech Stack & Tools 🧰</h3>
 
 | Category          | Tools & Technologies                                                                                                                                                                                                                                      |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -79,7 +79,7 @@
 
 
 
-<h3 align="center">📫 Lets Connect! 🤝</h3>
+<h3>📫 Lets Connect! 🤝</h3>
 
 | Platform      | Link                                                                    |
 | :------------ | :---------------------------------------------------------------------- |
@@ -92,7 +92,7 @@
 
 
 <div align="center">
-    <h2 align="center">📊 GitHub Stats:</h2>
+    <h2>📊 GitHub Stats:</h2>
     <table>
         <tr>
             <td>
@@ -116,7 +116,7 @@
     </table>
 </div>
 
-<h2 align="left">🎉 Thank You! 🎉</h2>
+<h2>🎉 Thank You! 🎉</h2>
 ***
 Thank you for visiting my profile. Feel free to explore my repositories and contribute to ongoing projects. Let's collaborate to develop innovative and impactful technology solutions together. 🌟
 
