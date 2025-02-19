@@ -21,7 +21,7 @@
 
 - **📚 I'm a Computer Science Graduate Specialized in Artificial Intelligence and Data Science with a strong foundation in software development, machine learning, and cloud computing.**
 
-- **🔭 I’m currently working on:** [**ScaleWeaver**](https://github.com/777Denoiser/ScaleWeaver-Adaptive-Multiscale-Network-of-Networks-Fabricator), [Main Proj 2](), [Main Proj 3](), [Main Proj 4]().
+- **🔭 I’m currently working on:** [**ScaleWeaver**](https://github.com/777Denoiser/ScaleWeaver-Adaptive-Multiscale-Network-of-Networks-Fabricator), [**TriangulumAI**](https://github.com/777Denoiser/TriangulumAI), [Main Proj 3](), [Main Proj 4]().
 
 - **🤖 Skilled in:** Python, Java, JavaScript, C, C++, AWS, Azure, Power BI. Learn more on [LinkedIn](https://www.linkedin.com/in/muzairseyal).
 
