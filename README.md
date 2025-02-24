@@ -27,7 +27,7 @@
 
 - **🧑‍💼 Work Experiences:** Experienced in developing AR experiences at Snap Inc., creating AI risk classification systems at National Research Group, and optimizing cybersecurity toolkits at Cisco Systems. Learn more on [LinkedIn](https://www.linkedin.com/in/muzairseyal).
 
-- **🌱 I’m currently learning:** Google Cloud Practitioner, AWS Certification, Ruby & Ruby on Rails, etc.
+- **🌱 I’m currently learning:** Google Cloud Practitioner, AWS Certification, Kubernetes, Ruby & Ruby on Rails, Rust, Scala, etc.
 
 - **👯 I’m looking to collaborate on:** [Several Projects in my Repository](https://www.github.com/777Denoiser).
 
