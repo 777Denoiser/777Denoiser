@@ -23,7 +23,7 @@
 
 - **🔭 I’m currently working on:** [**ScaleWeaver**](https://github.com/777Denoiser/ScaleWeaver-Adaptive-Multiscale-Network-of-Networks-Fabricator), [**TriangulumAI**](https://github.com/777Denoiser/TriangulumAI), [**BioSign Sentinel**](https://github.com/777Denoiser/BioSign-Sentinel), [**VisionVerse**](https://github.com/777Denoiser/VisionVerse-Neural-Net-Helio-Optics), [Main Proj 5](), [Main Proj 6 ]().
 
-- **🤖 Skilled in:** Python, Java, JavaScript, C, C++, AWS, Azure, Power BI. Learn more on [LinkedIn](https://www.linkedin.com/in/muzairseyal).
+- **🤖 Main Skills (excluding side-skills and others): ** Python, Java, JavaScript, C, C++, AWS, Azure, Power BI and More. If you want to Learn more on [LinkedIn](https://www.linkedin.com/in/muzairseyal).
 
 - **🧑‍💼 Work Experiences:** Over 3 Years of Professional and Technical Experience with multiple Multi-National Conglomerate Corporations in the private sector mostly and public sector in tech, (worked in international, hybrid, in-person and remote settings, individually with clients and in teams as both lead and member.) Significant Stint at Snap Inc., developing and marketing multiple end-to-end AR products at Snap Inc., researched and developed AI risk classification systems, case studies, data organization and visualization tools at National Research Group, and optimizing and created cybersecurity toolkits with an agile team environment weekly meetings and CI/CD pipeline and tests at Cisco Systems. and so many more contracts and internships I have not listed yet totaling up to a little over 3 years, Learn more on [LinkedIn](https://www.linkedin.com/in/muzairseyal).
 
@@ -37,7 +37,7 @@
 
 - **💬 Ask me about:** Anything work related or related to my projects and how I can help contribute to your projects.
 
-- **📫 How to reach me:** [E-mail](uzair.seyal23@gmail.com).
+- **📫 How to reach me:** [E-mail](uzair.seyal23@gmail.com), or [Linkedin inMail](https://www.linkedin.com/in/muzairseyal).
 
 - **📄 Know about my experiences:** [Resume Link](https://cardmaillouisville-my.sharepoint.com/:b:/g/personal/museya02_louisville_edu/EZwr5_AfhvNErNbjKWXavi0B-jd5jfo_1_Vk_h75Ck7qCA?e=UnwUrs).
 
