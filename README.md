@@ -19,23 +19,23 @@
 
 - **🏠 I'm currently residing in:** Louisville, Kentucky, United States  
 
-- **📚 I'm a Computer Science Graduate Specialized in Artificial Intelligence and Data Science with a strong foundation in software development, machine learning, and cloud computing.**
+- **📚 I'm a Computer Science Graduate Specialized in Artificial Intelligence and Data Science with a strong foundation and focus in software development, cloud, IT, and research, machine learning, and cloud computing.**
 
 - **🔭 I’m currently working on:** [**ScaleWeaver**](https://github.com/777Denoiser/ScaleWeaver-Adaptive-Multiscale-Network-of-Networks-Fabricator), [**TriangulumAI**](https://github.com/777Denoiser/TriangulumAI), [**BioSign Sentinel**](https://github.com/777Denoiser/BioSign-Sentinel), [**VisionVerse**](https://github.com/777Denoiser/VisionVerse-Neural-Net-Helio-Optics), [Main Proj 5](), [Main Proj 6 ]().
 
 - **🤖 Skilled in:** Python, Java, JavaScript, C, C++, AWS, Azure, Power BI. Learn more on [LinkedIn](https://www.linkedin.com/in/muzairseyal).
 
-- **🧑‍💼 Work Experiences:** Experienced in developing AR experiences at Snap Inc., creating AI risk classification systems at National Research Group, and optimizing cybersecurity toolkits at Cisco Systems. Learn more on [LinkedIn](https://www.linkedin.com/in/muzairseyal).
+- **🧑‍💼 Work Experiences:** Over 3 Years of Professional and Technical Experience with multiple Multi-National Conglomerate Corporations, international, hybrid, in-person and remote, individual with clients and in teams as both lead and member. Significant Stint at Snap Inc., developing and marketing multiple end-to-end AR products at Snap Inc., researched and developed AI risk classification systems, case studies, data organization and visualization tools at National Research Group, and optimizing and created cybersecurity toolkits with an agile team environment weekly meetings and CI/CD pipeline and tests at Cisco Systems. Learn more on [LinkedIn](https://www.linkedin.com/in/muzairseyal).
 
-- **🌱 I’m currently learning:** Google Cloud Practitioner, AWS Certification, Kubernetes, Ruby & Ruby on Rails, Rust, Scala, etc.
+- **🌱 I’m currently learning:**  AWS Certification, Google Cloud Practitioner, Kubernetes, Ruby & Ruby on Rails, Rust, Scala, etc.
 
-- **👯 I’m looking to collaborate on:** [Several Projects in my Repository](https://www.github.com/777Denoiser).
+- **👯 I’m looking to collaborate on:** [Several Projects in my Repository](https://www.github.com/777Denoiser), And if there is a related project I am willing to assist and collaborate to reach the goal of your pipeline in production.
 
-- **👨‍💻 All of my projects are available on:** [LinkedIn](https://www.linkedin.com/in/muzairseyal), [GitHub Repos](https://www.github.com/777Denoiser).
+- **👨‍💻 Some of my projects are available on (excluding locally stored projects):** [LinkedIn](https://www.linkedin.com/in/muzairseyal), [GitHub Repos](https://www.github.com/777Denoiser).
 
-- **📝 I regularly write articles on:** [LinkedIn](https://www.linkedin.com/in/muzairseyal).
+- **📝 I regularly write Blog Posts on:** [LinkedIn](https://www.linkedin.com/in/muzairseyal).
 
-- **💬 Ask me about:** My projects and how I can help contribute to your projects.
+- **💬 Ask me about:** Anything work related or related to my projects and how I can help contribute to your projects.
 
 - **📫 How to reach me:** [E-mail](uzair.seyal23@gmail.com).
 
@@ -52,7 +52,7 @@
 
 *💻 Implemented SHA-256 cryptographic validation in Go for Cisco's Grabit, optimizing software integrity and reducing downloads for 400+ developers. 🛡️
 
-*✨ Developed and fine-tuned real-time ML models in Python and JavaScript for Snapchat AR lenses, creating engaging user experiences with computer vision. 👻
+*✨ Developed and fine-tuned real-time ML models in Python and JavaScript for Snapchat AR lenses, creating engaging user experiences with computer vision (locally stored like many other projects). 👻
 
 *☁️ Automated AI risk classification pipelines using NLP and cloud (AWS, Azure), translating complex technical documents into actionable insights. 🔬
 
