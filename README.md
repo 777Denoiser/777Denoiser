@@ -1,5 +1,5 @@
 <div align="Center">
-    <h1 align="center" style="font-family:'Orbitron', sans-serif; font-weight:bold;">Hi 🚀, I'm Muhammad Uzair Seyal</h1>
+    <h1 align="center" style="font-family:'Orbitron', sans-serif; font-weight:bold;">Hi 🚀, I'm Ezra Segal</h1>
     <h3 align="center" style="font-family:'Orbitron', sans-serif; font-weight:bold;">💼 A Passionate Artificial Intelligence and Data Science Specialist</h3>
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=777denoiser&label=Profile%20Views&color=brightgreen&style=flat" alt="777denoiser" />
